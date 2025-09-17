@@ -1,0 +1,6 @@
+.obsidian/
+03_Files/
+.DS_Store
+Thumbs.db
+*.zip
+*.tar.gz
